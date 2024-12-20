@@ -27,97 +27,26 @@ sodouban 是一个开源项目，旨在为博客作者提供统一的样式，�
 
 本项目提供了多个类型的卡片模板示例，你可以根据项目需求选择合适的卡片样式进行展示。
 
-- 电影卡片 🎥
+### 电影卡片 🎥
+![movie_poster_card_sample](https://github.com/user-attachments/assets/cd27b6b0-3086-4ceb-8eb7-3637ef2c3f2f)
 
-<div style="
-    display: flex;
-    align-items: center;
-    background-color: #fff;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    padding: 16px;
-    max-width: 700px;
-    width: 100%;
-    font-family: 'Arial', sans-serif;
-    margin: 20px auto;
-    position: relative;
-">
-    <div style="
-        flex-shrink: 0;
-        width: 120px;
-        height: 180px; 
-        border-radius: 8px;
-        overflow: hidden;
-        margin-right: 16px;
-    ">
-        <img 
-            src="https://image11.m1905.cn/uploadfile/2024/1011/20241011032603291436.jpg" 
-            alt="Anora 海报" 
-            style="
-                width: 100%; 
-                height: 100%; 
-                object-fit: cover;
-            "
-        >
-    </div>
-    <div style="flex: 1;">
-        <div style="
-            font-size: 20px; 
-            font-weight: bold; 
-            color: #333; 
-            margin-bottom: 8px;
-        ">
-            阿诺拉 Anora (2024)
-        </div>
-        <div style="
-            display: flex; 
-            align-items: center; 
-            margin-bottom: 12px;
-        ">
-            <div style="
-                font-weight: 600; 
-                font-size: 14px; 
-                color: #333; 
-                margin-right: 8px;
-            ">
-                个人评分:
-            </div>
-            <div style="color: #f39c12;">
-                ⭐⭐⭐⭐☆
-            </div> 
-        </div>
-        <div style="
-            font-size: 14px; 
-            color: #666; 
-            line-height: 1.6;
-        ">
-            阿诺拉是布鲁克林的性工作者，她邂逅了一个商界寡头的儿子并在冲动之下嫁给了他，这让她以为自己像灰姑娘一样终于遇到自己的王子。然而当结婚消息传到了俄罗斯，男方父母来到纽约取消婚姻，破灭了的阿诺拉的童话。
-        </div>
-    </div>
-    <a href="https://movie.douban.com/subject/36195543/" 
-       target="_blank" 
-       style="
-           position: absolute; 
-           top: 16px; 
-           right: 16px; 
-           background-color: #6c8b5f; 
-           color: white; 
-           font-size: 12px; 
-           padding: 4px 8px; 
-           border-radius: 4px; 
-           text-transform: uppercase; 
-           text-decoration: none;
-       ">
-        Movie >>>
-    </a>
-</div>
+### 书籍卡片 📖
+![book_poster_card_sample](https://github.com/user-attachments/assets/fdd803be-f9f9-4ce6-958f-180dba2e29c7)
 
+### 电视剧卡片 📺
+![tv_show_poster_card_sample](https://github.com/user-attachments/assets/69912533-4bb0-43c9-a465-9774501ae4ab)
 
-- 书籍卡片 📖
-- 电视剧卡片 📺
-- 游戏卡片 🎮
+### 游戏卡片 🎮
+![game_poster_card_sample](https://github.com/user-attachments/assets/9098c1d0-0723-464b-b5f1-bcbb31c0e2d4)
 
-每种类型的卡片都可以根据实际情况进行灵活的修改和扩展，方便在博客中使用。
+### 综艺卡片 💃
+![variety_show_poster_card_sample](https://github.com/user-attachments/assets/08c589d7-3963-4238-9e74-dd2384a50f3c)
+
+### 音乐卡片 🎵
+![music_poster_card_sample](https://github.com/user-attachments/assets/805b672e-5e5f-4722-9567-c64d90aa929e)
+
+### 演出卡片 🎤
+![perform_poster_card_sample](https://github.com/user-attachments/assets/1edc6bd3-a9b0-4f6f-aa62-a0024869fc0c)
 
 ## 贡献 🛠️
 
