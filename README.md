@@ -52,6 +52,3 @@ sodouban 是一个开源项目，旨在为博客作者提供统一的样式，�
 
 我们欢迎任何形式的贡献！如果你发现 bug，或者有功能改进的建议，欢迎提交 Issues 或者 Pull Requests。你的参与将帮助项目不断完善，感谢你对开源社区的支持！
 
-## License 📄
-
-本项目采用 MIT License，详情请见 [LICENSE](LICENSE) 文件。
