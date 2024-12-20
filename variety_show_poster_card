@@ -1,0 +1,82 @@
+<div style="
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    max-width: 700px;
+    width: 100%;
+    font-family: 'Arial', sans-serif;
+    margin: 20px auto;
+    position: relative;
+">
+    <div style="
+        flex-shrink: 0;
+        width: 120px;
+        height: 180px; 
+        border-radius: 8px;
+        overflow: hidden;
+        margin-right: 16px;
+    ">
+        <img 
+            src="https://imgcdn.yzwb.net/fcapp_16e9684f-26ac-4329-a56a-731e356743dd_1728619382038?imageMogr2/thumbnail/1080x%3E/strip/ignore-error/1|imageslim" 
+            alt="再见爱人 第四季" 
+            style="
+                width: 100%; 
+                height: 100%; 
+                object-fit: cover;
+            "
+        >
+    </div>
+    <div style="flex: 1;">
+        <div style="
+            font-size: 20px; 
+            font-weight: bold; 
+            color: #333; 
+            margin-bottom: 8px;
+        ">
+            再见爱人 第四季 (2024)
+        </div>
+        <div style="
+            display: flex; 
+            align-items: center; 
+            margin-bottom: 12px;
+        ">
+            <div style="
+                font-weight: 600; 
+                font-size: 14px; 
+                color: #333; 
+                margin-right: 8px;
+            ">
+                个人评分:
+            </div>
+            <div style="color: #f39c12;">
+                ⭐⭐⭐☆☆
+            </div> 
+        </div>
+        <div style="
+            font-size: 14px; 
+            color: #666; 
+            line-height: 1.6;
+        ">
+            三对面临婚姻危机的夫妻踏上房车之旅，回首相爱的美好，直面破碎的婚姻关系和尖锐的现实问题。同时，观察团以第三视角解读婚姻关系，通过情感经验和专业理论梳理矛盾，将抽象的情感具象化、理论化，寻找根本问题所在。
+        </div>
+    </div>
+    <a href="https://movie.douban.com/subject/36642447/" 
+       target="_blank" 
+       style="
+           position: absolute; 
+           top: 16px; 
+           right: 16px; 
+           background-color: #6c8b5f; 
+           color: white; 
+           font-size: 12px; 
+           padding: 4px 8px; 
+           border-radius: 4px; 
+           text-transform: uppercase; 
+           text-decoration: none;
+       ">
+        Show >>>
+    </a>
+</div>
