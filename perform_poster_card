@@ -1,0 +1,82 @@
+<div style="
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    max-width: 700px;
+    width: 100%;
+    font-family: 'Arial', sans-serif;
+    margin: 20px auto;
+    position: relative;
+">
+    <div style="
+        flex-shrink: 0;
+        width: 120px;
+        height: 180px; 
+        border-radius: 8px;
+        overflow: hidden;
+        margin-right: 16px;
+    ">
+        <img 
+            src="https://www.themoviedb.org/t/p/w1280/o4R7ZyMAatFpCJiT2ELSwfaaCoX.jpg" 
+            alt="Lady Gaga Presents: The Monster Ball Tour at Madison Square Garden" 
+            style="
+                width: 100%; 
+                height: 100%; 
+                object-fit: cover;
+            "
+        >
+    </div>
+    <div style="flex: 1;">
+        <div style="
+            font-size: 20px; 
+            font-weight: bold; 
+            color: #333; 
+            margin-bottom: 8px;
+        ">
+            Lady Gaga：恶魔舞会巡演之麦迪逊公园广场演唱会 (2011)
+        </div>
+        <div style="
+            display: flex; 
+            align-items: center; 
+            margin-bottom: 12px;
+        ">
+            <div style="
+                font-weight: 600; 
+                font-size: 14px; 
+                color: #333; 
+                margin-right: 8px;
+            ">
+                个人评分:
+            </div>
+            <div style="color: #f39c12;">
+                ⭐⭐⭐⭐⭐☆
+            </div> 
+        </div>
+        <div style="
+            font-size: 14px; 
+            color: #666; 
+            line-height: 1.6;
+        ">
+            Lady Gaga早前在纽约麦迪逊广场的演唱会，获HBO电视台全程跟进拍摄。
+        </div>
+    </div>
+    <a href="https://movie.douban.com/subject/6075345/" 
+       target="_blank" 
+       style="
+           position: absolute; 
+           top: 16px; 
+           right: 16px; 
+           background-color: #6c8b5f; 
+           color: white; 
+           font-size: 12px; 
+           padding: 4px 8px; 
+           border-radius: 4px; 
+           text-transform: uppercase; 
+           text-decoration: none;
+       ">
+        perform >>>
+    </a>
+</div>
