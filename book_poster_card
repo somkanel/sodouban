@@ -14,62 +14,77 @@
     <div style="
         flex-shrink: 0;
         width: 120px;
-        height: 160px;
+        height: 180px; 
         border-radius: 8px;
         overflow: hidden;
         margin-right: 16px;
     ">
         <img 
             src="https://cdn.weread.qq.com/weread/cover/31/3300024931/t6_3300024931.jpg" 
-            alt="小米创业思考 封面" 
-            style="width: 100%; height: 100%; object-fit: cover;"
+            alt="小米创业思考" 
+            style="
+                width: 100%; 
+                height: 100%; 
+                object-fit: cover;
+            "
         >
     </div>
     <div style="flex: 1;">
         <div style="
-            font-size: 20px;
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 4px;
+            font-size: 20px; 
+            font-weight: bold; 
+            color: #333; 
+            margin-bottom: 8px;
         ">
-            小米创业思考 (2022)
+            小米创业思考
         </div>
         <div style="
-            display: flex;
-            align-items: center;
+            display: flex; 
+            align-items: center; 
             margin-bottom: 12px;
         ">
-            <div style="color: #f39c12; margin-right: 8px;">
+            <div style="
+                font-weight: 600; 
+                font-size: 14px; 
+                color: #333; 
+                margin-right: 8px;
+            ">
+                个人评分:
+            </div>
+            <div style="color: #f39c12;">
                 ⭐⭐⭐⭐☆
             </div>
-            <div style="font-size: 16px; color: #555;">
-                8.1 / 10
-            </div>
         </div>
         <div style="
-            font-size: 14px;
-            color: #666;
-            line-height: 1.8;
+            font-size: 14px; 
+            color: #000;
+            line-height: 1.6;
             margin-bottom: 12px;
         ">
-            <strong>作者：</strong>雷军 / 徐洁云<br>
-            <strong>出版社：</strong>中信出版社<br>
-            <strong>页数：</strong>383 页<br>
-            <strong>定价：</strong>86.00 元<br>
-            <strong>ISBN：</strong>9787521745276
+            作者：雷军 / 徐洁云
+        </div>
+        <div style="
+            font-size: 14px; 
+            color: #666; 
+            line-height: 1.6;
+        ">
+            雷军系统梳理30年创业心法和经营哲学，深度复盘“小米模式”，认为取得持续成功的核心在于只干了一件事：坚持“互联网制造”路线，推动效率革命，实现用户利益和经济效率的最大化。
         </div>
     </div>
-    <div style="
-        position: absolute;
-        top: 16px;
-        right: 16px;
-        background-color: #6c8b5f;
-        color: white;
-        font-size: 12px;
-        padding: 4px 8px;
-        border-radius: 4px;
-        text-transform: uppercase;
-    ">
-        Book
-    </div>
+    <a href="https://book.douban.com/subject/36057097/" 
+       target="_blank" 
+       style="
+           position: absolute; 
+           top: 16px; 
+           right: 16px; 
+           background-color: #6c8b5f; 
+           color: white; 
+           font-size: 12px; 
+           padding: 4px 8px; 
+           border-radius: 4px; 
+           text-transform: uppercase; 
+           text-decoration: none;
+       ">
+        Book >>>
+    </a>
 </div>
